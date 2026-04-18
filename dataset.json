@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Statewide restaurant dataset covering all active listings across Maryland. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Maryland, US",
+  "export_job_id": "e1151d81-7e4d-4e2b-bf1e-d45b3a2a14e6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 759928,
+  "location_name": "Maryland",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-maryland-us-sample-759928",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/759928/beamstation_759928_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_pct": 7.66,
+  "sample_records": 1000,
+  "sample_sha256": "93d071467f79bb399a76bdde59fa10f0be5c77b920be0a156c4c678f261c831a",
+  "sample_size_bytes": 2898329,
+  "total_records": 13063,
+  "updated_at": "2026-04-14T20:18:03.774933+00:00"
+}
