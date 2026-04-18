@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e1151d81-7e4d-4e2b-bf1e-d45b3a2a14e6",
+  "id_short": 759928,
+  "published_at": "2026-04-18T19:51:55Z",
+  "repo_name": "all-restaurants-in-maryland-us-sample-759928",
+  "sample_asset_name": "beamstation_759928_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/759928/beamstation_759928_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "93d071467f79bb399a76bdde59fa10f0be5c77b920be0a156c4c678f261c831a",
+  "sample_size_bytes": 2898329,
+  "total_records": 13063
+}
