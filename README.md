@@ -9,9 +9,9 @@
 | Dataset ID | `759928` |
 | Location | Maryland |
 | Category | Restaurants |
-| Full dataset size | 13,063 records |
-| Free sample size | 1,000 records (7.66%) |
-| Last export | 2026-04-14T20:18:03.774933+00:00 |
+| Full dataset size | 11,198 records |
+| Free sample size | 1,000 records (8.93%) |
+| Last export | 2026-04-21T22:28:58.422103+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-maryland-us-sample-759928/releases/download/sample-latest/beamstation_759928_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
