@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Maryland. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Maryland, US",
-  "export_job_id": "0167ad24-738b-42d7-8d8b-de3203dc4dce",
+  "export_job_id": "d5877755-6abb-40a7-b516-4168e2b0334a",
   "github_org": "Beamstation-Datasets",
   "id_short": 759928,
   "location_name": "Maryland",
   "location_type": "state",
   "repo_name": "all-restaurants-in-maryland-us-sample-759928",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/759928/beamstation_759928_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_pct": 8.07,
+  "sample_pct": 7.46,
   "sample_records": 1000,
-  "sample_sha256": "da3c7d40aca74d422d118c2fd9e1b577e4edeabf79524b4c8661fbc404b126d1",
-  "sample_size_bytes": 3066339,
-  "total_records": 12396,
-  "updated_at": "2026-04-29T01:40:52.057933+00:00"
+  "sample_sha256": "ef0a9be4d2d9d51cc795059f98ddc52d825d374c677c0b0677518d6c744eff5a",
+  "sample_size_bytes": 3057524,
+  "total_records": 13405,
+  "updated_at": "2026-05-08T10:01:14.837776+00:00"
 }
